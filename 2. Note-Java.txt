@@ -1,0 +1,61 @@
+-- Java
+1. Công cụ: 
+	JDK 
+	Eclipse
+	IntelliJ: Tính phí
+	NetBean
+	
+2. Tạo ra chương trình Java đầu tiên: 
+	Hello VTI Academy
+	Tạo ra được 1 Project Java
+		Cấu trúc của Project: 
+			src: Lưu trữ Source Code
+			lib: Lưu trữ những thư viện sử dụng trong chương trình
+	Tạo ra các File Code Java: .java(class)	
+			public class Demo {
+			
+			}
+			main(): Chạy hàm này đầu tiên
+	System.out.println("Hello VTI Academy!!");
+	
+3. Dữ liệu
+	MySQL: varchar, int, datetime, ....
+	Java: 
+		Số nguyên: int (1 2 3 4)
+		Số thực: float(Float) (1.2f 2.5f)
+		Chuỗi: String ("daonq", "VTI")
+		Ký tự	  : char	
+		Thời gian: Date, Time, LocalDate
+		boolean
+4. Thử giải 1 bài toán lập trình: Tính tổng của 2 số nguyên
+		Có được dữ liệu cần tính: Dữ liệu nhận được từ người dùng
+		==> Lưu trữ dữ liệu (Nhập vào số 7 hoặc số 8 ) trong chương trình Java ==> Biến
+			Khai báo ra Biến: Số nguyên, Số thực, Chuỗi, ...
+			int number1;
+		(==> Kiểm tra xem có phải số nguyên hay không)
+		==> Tính toán và trả về kết quả
+
+5. Toán tử: + - * / ...
+
+6. Package
+
+7. 	Viết chương trình quản lý học viên cho VTI
+	10 bạn học viên
+	Hiển thị thông tin học viên.
+	----
+	Mỗi học viên có những thông tin nào: 
+		Mã
+		Tên
+		...
+	
+		1 - Phương
+		2 - Tâm
+		3 - Long
+		...
+		? Chứa
+		String person1 = ""
+		
+		==> Java: Đối tượng(Object)
+		Class: Khuôn mẫu, từ khuôn mẫu có thể tạo ra các đối tượng cụ thể(Instance), trong khuôn mẫu có thể định nghĩa ra các thuộc tính mà sau này 1 Instance có thể nhận
+		
+		

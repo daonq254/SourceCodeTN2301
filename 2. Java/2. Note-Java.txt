@@ -58,4 +58,16 @@
 		==> Java: Đối tượng(Object)
 		Class: Khuôn mẫu, từ khuôn mẫu có thể tạo ra các đối tượng cụ thể(Instance), trong khuôn mẫu có thể định nghĩa ra các thuộc tính mà sau này 1 Instance có thể nhận
 		
+		Phát triển tiếp: 
+			Xây 1 menu trong chương trình
+			Người dùng nhập liệu vào
+			Kiểu dữ liệu nào đấy mà có thể lưu trữ đc nhiều phần tử: array
+			Các vòng lặp: for, forEach, while, do while
+			Câu lệnh điều khiển rẽ nhánh: if else, Switch Case
+			Cơ chế xử lý: Exception
+			Xử lý File
+			Kết nối và thao tác với CSDL
+			...
+			
+		
 		
